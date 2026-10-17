@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33587303/README.md)
 # Iris Flowering Plant — K-Means Clustering Analysis
 
 An end-to-end exploratory **unsupervised machine learning** analysis of the Iris flower dataset using Python, scikit-learn, and interactive Plotly visualizations. The project examines whether four flower measurements reveal natural groupings, compares **K = 2** with **K = 3**, and evaluates the resulting clusters against known species labels.
